@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="j1App.cpp">
+      <Filter>App</Filter>
+    </ClCompile>
+    <ClCompile Include="j1Main.cpp">
+      <Filter>App</Filter>
+    </ClCompile>
+    <ClCompile Include="p2Log.cpp">
+      <Filter>Helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="j1Scene.cpp">
+      <Filter>App\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="PugiXml\src\pugixml.cpp">
+      <Filter>App\Tools\PuguiXML</Filter>
+    </ClCompile>
+    <ClCompile Include="j1PerfTimer.cpp">
+      <Filter>App\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="j1Timer.cpp">
+      <Filter>App\Tools</Filter>
+    </ClCompile>
+    <ClCompile Include="j1Audio.cpp">
+      <Filter>App\Modules\Bases</Filter>
+    </ClCompile>
+    <ClCompile Include="j1Input.cpp">
+      <Filter>App\Modules\Bases</Filter>
+    </ClCompile>
+    <ClCompile Include="j1Render.cpp">
+      <Filter>App\Modules\Bases</Filter>
+    </ClCompile>
+    <ClCompile Include="j1Textures.cpp">
+      <Filter>App\Modules\Bases</Filter>
+    </ClCompile>
+    <ClCompile Include="j1Window.cpp">
+      <Filter>App\Modules\Bases</Filter>
+    </ClCompile>
+    <ClCompile Include="j1Gui.cpp">
+      <Filter>App\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="j1UI_Element.cpp">
+      <Filter>App\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="GuiButton.cpp">
+      <Filter>App\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="GuiImage.cpp">
+      <Filter>App\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="GuiInputText.cpp">
+      <Filter>App\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="GuiText.cpp">
+      <Filter>App\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="j1Fonts.cpp">
+      <Filter>App\Modules\Bases</Filter>
+    </ClCompile>
+    <ClCompile Include="GuiSlider.cpp">
+      <Filter>App\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogSystem.cpp">
+      <Filter>App</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="j1App.h">
+      <Filter>App</Filter>
+    </ClInclude>
+    <ClInclude Include="j1Module.h">
+      <Filter>App</Filter>
+    </ClInclude>
+    <ClInclude Include="p2Defs.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="p2List.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="p2Log.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="p2SString.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="p2Point.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="p2DynArray.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="j1Scene.h">
+      <Filter>App\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="PugiXml\src\pugiconfig.hpp">
+      <Filter>App\Tools\PuguiXML</Filter>
+    </ClInclude>
+    <ClInclude Include="PugiXml\src\pugixml.hpp">
+      <Filter>App\Tools\PuguiXML</Filter>
+    </ClInclude>
+    <ClInclude Include="p2Vec2.h">
+      <Filter>Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="j1PerfTimer.h">
+      <Filter>App\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="j1Timer.h">
+      <Filter>App\Tools</Filter>
+    </ClInclude>
+    <ClInclude Include="j1Audio.h">
+      <Filter>App\Modules\Bases</Filter>
+    </ClInclude>
+    <ClInclude Include="j1Input.h">
+      <Filter>App\Modules\Bases</Filter>
+    </ClInclude>
+    <ClInclude Include="j1Render.h">
+      <Filter>App\Modules\Bases</Filter>
+    </ClInclude>
+    <ClInclude Include="j1Textures.h">
+      <Filter>App\Modules\Bases</Filter>
+    </ClInclude>
+    <ClInclude Include="j1Window.h">
+      <Filter>App\Modules\Bases</Filter>
+    </ClInclude>
+    <ClInclude Include="j1Gui.h">
+      <Filter>App\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="j1UI_Element.h">
+      <Filter>App\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="GuiButton.h">
+      <Filter>App\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="GuiImage.h">
+      <Filter>App\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="GuiInputText.h">
+      <Filter>App\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="GuiText.h">
+      <Filter>App\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="j1Fonts.h">
+      <Filter>App\Modules\Bases</Filter>
+    </ClInclude>
+    <ClInclude Include="GuiSlider.h">
+      <Filter>App\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="DialogSystem.h">
+      <Filter>App</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Helpers">
+      <UniqueIdentifier>{a8bfab6a-5472-4969-943e-861a8b493f08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="App">
+      <UniqueIdentifier>{cb944693-b9d0-484c-bad2-02d5a7cdbec6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="App\Tools">
+      <UniqueIdentifier>{42c748be-4a37-49de-970f-5be811d06b38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="App\Tools\PuguiXML">
+      <UniqueIdentifier>{7cb78d67-17cc-45eb-af97-e2106becce7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="App\Scenes">
+      <UniqueIdentifier>{e07660eb-d36f-4cc9-af59-324d31c2f2f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="App\Modules">
+      <UniqueIdentifier>{244722d1-90ce-423d-8e7a-556211865a32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="App\Modules\Bases">
+      <UniqueIdentifier>{1445edbd-6d6b-461e-a7be-18ffc92b134e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="App\UI">
+      <UniqueIdentifier>{10a6f384-2099-4c3e-9b87-c0ea1419977d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="..\Game\config.xml">
+      <Filter>App\Tools</Filter>
+    </Xml>
+  </ItemGroup>
+</Project>
