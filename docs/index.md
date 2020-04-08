@@ -1,16 +1,29 @@
 ﻿# The Little Explorer
 
+
 ## Introduction
-The Little Explorer is a platformer game developed by Marc Pagès and Silvino Medina. We both are students in CITM, a university located in Terrassa, Catalonia, Spain. 
-This project is made for the Game Development class in which students learn the basics for programming a video game from almost scratch.
+
+Here you will found some usefull information about what is a dialog system, examples of it, why it is used and how to do one. 
+We will see different types of dialog systems, examples of games that have one and a little step by step tutorial to do one basic system.
+
+## Dialog System?
+
+The dialog system is that part of the game or app which control the dialog interaction between the user and/or IA interactions. In some games we can interact with it, making decisions which can or not inflict 
+in the story or future actions, and in other cases the player can only see how the AI interacts with itself. Not all decisions that we can make are important, there are can be dialogs systems which don't save 
+the decisions you made, it is all about the game you want to do and the importance you want to give to making decisions.
+
+To do a GOOD dialog system, there are one thing that has to be done before starting coding, planing a dialog tree. A dialog tree is where all the decisions are schedule, setting the possible answers and next 
+questions to ask or answers to give.
+
 
 ![](https://github.com/Windfog-Studios/The-Little-Explorer/blob/master/docs/banner.png?raw=true)
 
-## The Game
+
+## Why we use it?
 
 In this platformer game you will guide the Little explorer Tilo through two different levels in which you will be able to collect coins while defeating enemies jumping on them. 
 
-## Team 
+## How to do one?
 
 ![](https://github.com/Windfog-Studios/The-Little-Explorer/blob/master/docs/silvinomedina.jpg?raw=true)
 
@@ -39,40 +52,15 @@ Or download our latest [release](https://github.com/Windfog-Studios/The-Little-E
 
 <iframe width="720" height="480" src="https://www.youtube.com/embed/l1QD2Q4vmXU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Controls
 
-- A: Go left
-- D: Go right
-- S: Crouch
-- Space: Jump 
-- F: Slide
-- º: Toggle console ON/OFF
+## References
 
-If SPACE is pressed while jumping a double jump will be performed.
+- https://www.gamasutra.com/view/feature/132116/defining_dialogue_systems.php
+- https://www.gamasutra.com/blogs/BobbyLockhart/20171107/309121/5_Radical_Ideas_for_Dialogue_Systems.php
+- http://www.digra.org/wp-content/uploads/digital-library/09287.59480.pdf
+- https://en.wikipedia.org/wiki/Dialogue_tree
+- https://medium.com/@kionay/rpg-dialogue-systems-1de601383a94
 
-In order to press the option to continue from the main menu, it is first necessary to save the game with F5.
-
-### Console Commands
-
-- list: show all commands available
-- quit: quit the game
-- god_mode: toggle god mode on and off
-- map_level1: load level 1
-- map_level2: load level 2
-- fps_(number): change framerate cap (limited to values between 30 and 120)
-
-## Debug
-
-- F1: Start from the first level
-- F2: Start from the second level
-- F3: Start from the beggining of the current level
-- F4: Pause the game
-- F5: Save game
-- F6: Load game
-- F8: Debug UI
-- F9: View colliders and pathfindng
-- F10: Toggle God Mode
-- F11: Enable/Disable FPS cap to 30 
 
 ## License  
 
