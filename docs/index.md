@@ -8,16 +8,17 @@ We will see different types of dialog systems, examples of games that have one a
 
 ## Dialog System?
 
-The dialog system is that part of the game or app which control the dialog interaction between the user and/or IA interactions. In some games we can interact with it, making decisions which can or not inflict 
-in the story or future actions, and in other cases the player can only see how the AI interacts with itself. Not all decisions that we can make are important, there are can be dialogs systems which don't save 
-the decisions you made, it is all about the game you want to do and the importance you want to give to making decisions.
+The dialog system is that part of the game or app which control the dialog interaction between the user and/or IA interactions. In some games 
+we can interact with it, making decisions which can or not inflict in the story or future actions, and in other cases the player can only see
+how the AI interacts with itself. Not all decisions that we can make are important, there are can be dialogs systems which don't save the 
+decisions you made, it is all about the game you want to do and the importance you want to give to making decisions.
 
-To do a GOOD dialog system, there are one thing that has to be done before starting coding, planing a dialog tree. A dialog tree is where all the decisions are schedule, setting the possible answers and next 
-questions to ask or answers to give.
+To do a GOOD dialog system, there are one thing that has to be done before starting coding, planing a dialog tree. A dialog tree is where all 
+the decisions are schedule, setting the possible answers and next questions to ask or answers to give.
 
+![](https://github.com/Avilgor/DialogSystem/tree/master/docs/tree.png?raw=true)
 
-![](https://github.com/Windfog-Studios/The-Little-Explorer/blob/master/docs/banner.png?raw=true)
-
+That image is a clear example of a dialog tree. It is a simple dialog only taken into account, but for a larger one the basis is the same, you only have to include more options and further questions/answers.
 
 ## Why we use it?
 
