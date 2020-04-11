@@ -18,11 +18,17 @@ the decisions are schedule, setting the possible answers and next questions to a
 
 ![](https://github.com/Avilgor/DialogSystem/tree/master/docs/tree.png?raw=true)
 
-That image is a clear example of a dialog tree. It is a simple dialog only taken into account, but for a larger one the basis is the same, you only have to include more options and further questions/answers.
+That image is a clear example of a dialog tree. It is a simple dialog only taken into account, but for a larger one the basis is the same, 
+you only have to include more options and further questions/answers.
 
 ## Why we use it?
 
-In this platformer game you will guide the Little explorer Tilo through two different levels in which you will be able to collect coins while defeating enemies jumping on them. 
+In a RTS game it can be used to introduce the story or make gameplay decisions, like events, alliances... 
+
+![](https://github.com/Avilgor/DialogSystem/tree/master/docs/stellaris.png?raw=true)
+
+In the game "Stellaris", sometimes you have to make decisions that involve other races in the univers. Those decisions are the base for the alliance
+system the game has.
 
 ## How to do one?
 
