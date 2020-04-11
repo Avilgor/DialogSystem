@@ -38,7 +38,7 @@ decisions they have. Sometimes, one of the most criticized parts in a videogame 
 
 In both cases is well done, having multiple options that we can see fully the whole text or almost it. Which allow us to decide correctly what to choose knowing what it means.
 
-![](https://github.com/Avilgor/DialogSystem/blob/master/docs/fallout4.jpeg?raw=true)
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/fallout4.jpg?raw=true)
 
 That last one was one of the reasons that people complain about "Fallout 4", the dialog system is awful compared whith the previous ones. The answers are not clear enough, which is a problem bacause players expect a certain result when taking a decision, and if it is not what he/she expected he/she can be dissapointed. 
 
