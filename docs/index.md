@@ -25,24 +25,33 @@ you only have to include more options and further questions/answers.
 
 In a RTS game it can be used to introduce the story or make gameplay decisions, like events, alliances... 
 
-![](https://github.com/Avilgor/DialogSystem/blob/master/docs/stellaris.png?raw=true)
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/stellaris.jpg?raw=true)
 
-In the game "Stellaris", sometimes you have to make decisions that involve other races in the univers. Those decisions are the base for the alliance
-system the game has.
+In the game "Stellaris", sometimes you have to make decisions that involve other races in the univers. Those decisions are the base for the alliance system the game has.
+
+Other games that also use a dialog system are Skyrim and Fallout, which are good known in the industry for the amount of dialogues and 
+decisions they have. Sometimes, one of the most criticized parts in a videogame is the dialog system, being answers not clear enough or not having enough impact in the story.
+
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/skyrim.jpeg?raw=true)
+
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/fallout.jpeg?raw=true)
+
+In both cases is well done, having multiple options that we can see fully the whole text or almost it. Which allow us to decide correctly what to choose knowing what it means.
+
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/fallout4.jpeg?raw=true)
+
+That last one was one of the reasons that people complain about "Fallout 4", the dialog system is awful compared whith the previous ones. The answers are not clear enough, which is a problem bacause players expect a certain result when taking a decision, and if it is not what he/she expected he/she can be dissapointed. 
+
+Another dialog system is the one used in "Sims" games. Which is different from the others because it doesn't use words, only for the player to choose what to do, but to know if out decision was succesful we have to look at the images that explain what are they talking about or how they feel.
+
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/sims.png?raw=true)
+
+Knowing that there is not only one way to do it, it is up to you to decide how you want it to be.
 
 ## How to do one?
 
-![](https://github.com/Windfog-Studios/The-Little-Explorer/blob/master/docs/silvinomedina.jpg?raw=true)
-
-[cxx](https://github.com/silvino00)
-
-
-![](https://github.com/Windfog-Studios/The-Little-Explorer/blob/master/docs/marcpages2020.jpg?raw=true)
-
-[xx](https://github.com/marcpages2020)
-
-
-Check our [repository](https://github.com/Windfog-Studios/The-Little-Explorer) to take a more detailed look to our work!
+Know we are gonna see a step by step tutorial to do a dialog system based on text and multiple answers.
+To start with it tou can download this [handout](https://github.com/Windfog-Studios/The-Little-Explorer/releases/tag/1.0) with the base code to start.
 
 Or download our latest [release](https://github.com/Windfog-Studios/The-Little-Explorer/releases/tag/1.0)
 
