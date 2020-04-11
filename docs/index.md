@@ -16,7 +16,7 @@ decisions you made, it is all about the game you want to do and the importance y
 To do a GOOD dialog system, there are one thing that has to be done before starting coding, planing a dialog tree. A dialog tree is where all 
 the decisions are schedule, setting the possible answers and next questions to ask or answers to give.
 
-![](https://github.com/Avilgor/DialogSystem/tree/master/docs/tree.png?raw=true)
+![](https://github.com/Avilgor/DialogSystem/tree/master/docs/tree.png)
 
 That image is a clear example of a dialog tree. It is a simple dialog only taken into account, but for a larger one the basis is the same, 
 you only have to include more options and further questions/answers.
@@ -25,7 +25,7 @@ you only have to include more options and further questions/answers.
 
 In a RTS game it can be used to introduce the story or make gameplay decisions, like events, alliances... 
 
-![](https://github.com/Avilgor/DialogSystem/tree/master/docs/stellaris.png?raw=true)
+![](https://github.com/Avilgor/DialogSystem/tree/master/docs/stellaris.png)
 
 In the game "Stellaris", sometimes you have to make decisions that involve other races in the univers. Those decisions are the base for the alliance
 system the game has.
