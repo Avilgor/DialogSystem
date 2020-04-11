@@ -60,8 +60,8 @@ Or download our latest [release](https://github.com/Windfog-Studios/The-Little-E
 
 ## References
 
-- https://www.gamasutra.com/view/feature/132116/defining_dialogue_systems.php
-- https://www.gamasutra.com/blogs/BobbyLockhart/20171107/309121/5_Radical_Ideas_for_Dialogue_Systems.php
-- http://www.digra.org/wp-content/uploads/digital-library/09287.59480.pdf
-- https://en.wikipedia.org/wiki/Dialogue_tree
-- https://medium.com/@kionay/rpg-dialogue-systems-1de601383a94
+- [https://www.gamasutra.com/view/feature/132116/defining_dialogue_systems.php](https://www.gamasutra.com/view/feature/132116/defining_dialogue_systems.php)
+- [https://www.gamasutra.com/blogs/BobbyLockhart/20171107/309121/5_Radical_Ideas_for_Dialogue_Systems.php](https://www.gamasutra.com/blogs/BobbyLockhart/20171107/309121/5_Radical_Ideas_for_Dialogue_Systems.php)
+- [http://www.digra.org/wp-content/uploads/digital-library/09287.59480.pdf](http://www.digra.org/wp-content/uploads/digital-library/09287.59480.pdf)
+- [https://en.wikipedia.org/wiki/Dialogue_tree](https://en.wikipedia.org/wiki/Dialogue_tree)
+- [https://medium.com/@kionay/rpg-dialogue-systems-1de601383a94](https://medium.com/@kionay/rpg-dialogue-systems-1de601383a94)
