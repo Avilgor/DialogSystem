@@ -16,7 +16,7 @@ decisions you made, it is all about the game you want to do and the importance y
 To do a GOOD dialog system, there are one thing that has to be done before starting coding, planing a dialog tree. A dialog tree is where all 
 the decisions are schedule, setting the possible answers and next questions to ask or answers to give.
 
-![](https://github.com/Avilgor/DialogSystem/tree/master/docs/tree.png)
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/tree.png?raw=true)
 
 That image is a clear example of a dialog tree. It is a simple dialog only taken into account, but for a larger one the basis is the same, 
 you only have to include more options and further questions/answers.
@@ -25,7 +25,7 @@ you only have to include more options and further questions/answers.
 
 In a RTS game it can be used to introduce the story or make gameplay decisions, like events, alliances... 
 
-![](https://github.com/Avilgor/DialogSystem/tree/master/docs/stellaris.png)
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/stellaris.png?raw=true)
 
 In the game "Stellaris", sometimes you have to make decisions that involve other races in the univers. Those decisions are the base for the alliance
 system the game has.
@@ -34,24 +34,13 @@ system the game has.
 
 ![](https://github.com/Windfog-Studios/The-Little-Explorer/blob/master/docs/silvinomedina.jpg?raw=true)
 
-[Silvino Medina](https://github.com/silvino00)
-- Level Design
-- Audio
-- Spritesheet design
-- Animation
-- Secondary entities
-- In game GUI implementation
+[cxx](https://github.com/silvino00)
+
 
 ![](https://github.com/Windfog-Studios/The-Little-Explorer/blob/master/docs/marcpages2020.jpg?raw=true)
 
-[Marc Pagès](https://github.com/marcpages2020)
-- Character Movement
-- AI Programming
-- GUI basics
-- Pause menu
-- Main Menu
-- Console
-- Collider and particles implementation
+[xx](https://github.com/marcpages2020)
+
 
 Check our [repository](https://github.com/Windfog-Studios/The-Little-Explorer) to take a more detailed look to our work!
 
@@ -67,13 +56,3 @@ Or download our latest [release](https://github.com/Windfog-Studios/The-Little-E
 - http://www.digra.org/wp-content/uploads/digital-library/09287.59480.pdf
 - https://en.wikipedia.org/wiki/Dialogue_tree
 - https://medium.com/@kionay/rpg-dialogue-systems-1de601383a94
-
-
-## License  
-
-GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
-
- Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
