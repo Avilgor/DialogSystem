@@ -1,0 +1,46 @@
+<!-- Config file for the game -->
+
+<config>
+  <app framerate_cap="30">
+    <title>Dialog System</title>
+    <organization>UPC</organization>
+  </app>
+
+ <audio>
+    <music>
+      <folder>audio/music/</folder>
+      <musicVolumeModifier value="0.3" />
+    </music>
+    <sfx> 
+      <folder>audio/fx/</folder>
+      <sfxVolumeModifier value="1" />
+    </sfx>
+  </audio>
+
+  <gui>
+    <atlas file="sprites/Retail.png"/>
+    <clickFX source="Click.wav"/>
+  </gui>
+
+  <file_system>
+    <path>data.zip</path>
+  </file_system>
+
+  <renderer>
+    <vsync value="false"/>
+    <camera x ="0" y ="-450"/> 
+  </renderer>
+
+  <scene>
+   <camera_frame x="300" y="175" w="300" h="300" />
+  </scene>
+
+  <window>
+    <resolution width="1024" height="768" scale="1"/>
+    <fullscreen value="false"/>
+    <borderless value="false"/>
+    <resizable value="false"/>
+    <fullscreen_window value="false"/>
+  </window>
+
+</config>
