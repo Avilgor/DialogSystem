@@ -1,4 +1,4 @@
-﻿# The Little Explorer
+﻿# Dialog System
 
 
 ## Introduction
