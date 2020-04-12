@@ -2,7 +2,6 @@
 #define __DIALOGSYSTEM_H__
 
 #include "j1Module.h"
-#include <vector>
 
 #define CHOOSE_OPTION 1
 

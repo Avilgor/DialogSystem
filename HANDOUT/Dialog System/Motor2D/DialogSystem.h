@@ -2,9 +2,7 @@
 #define __DIALOGSYSTEM_H__
 
 #include "j1Module.h"
-#include <vector>
 
-#define CHOOSE_OPTION 1
 
 struct SDL_Texture;
 class GuiImage;
@@ -12,13 +10,10 @@ class GuiText;
 class GuiButton;
 class GuiInputText;
 
-enum Option
-{
-	NONE,
-	OPTION_A,
-	OPTION_B,
-	OPTION_C
-};
+////TODO 4:
+//
+//Declare enum for options
+
 
 class DialogSystem : j1Module
 {
@@ -31,20 +26,31 @@ public:
 	bool Update();
 
 	bool CleanUp();
+	////TODO 2:
+	//
+	//Declare function to create and update UI
 
-	void CreateScreenUI();
-	void UpdateScreenUI(Option answer = NONE);
+
+	//TODO 4:
+	//
+	//Declare update UI function
+
 
 
 public:  
 
-	GuiImage* retail;
-	GuiText* txt;
-	GuiText* txtOptionA;
-	GuiText* txtOptionB;
-	GuiText* txtOptionC;
-	bool end;
-	bool question;
-	int dStep;
+	////TODO 2:
+	//
+	//Declare varibles for UI elements
+
+
+	////TODO 4:
+	//
+	//Declare dialog control variables
+
+
+	////Optional
+	//
+	//Declare variable for dialog end
 };
 #endif
