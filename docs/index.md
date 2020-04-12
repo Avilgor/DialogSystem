@@ -74,6 +74,8 @@ To start with it tou can download this [handout](https://github.com/Avilgor/Dial
 
 - First of all you have to create a dialog tree with your text lines and posible options to choose and answers, if you are not inspired, you can use the one I used created 
  for this tutorial, it is inside the handout folder.
+ 
+ ![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/dTree.png?raw=true)
 
 # TODO 2:
 
@@ -81,6 +83,7 @@ To start with it tou can download this [handout](https://github.com/Avilgor/Dial
 	- For this we will need 1 image for the retail and 4 texts, one for the information and the other 3 for each answer
 	
 ![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/todo2_1.png?raw=true)
+
 ![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/todo2.png?raw=true)
 
 # TODO 3:
@@ -89,6 +92,7 @@ To start with it tou can download this [handout](https://github.com/Avilgor/Dial
 	- Here we will used the texture for the retail image and start all the text lines empty
 	
 ![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/todo3.png?raw=true)
+
 ![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/todo3_1.png?raw=true)
 
 # TODO 4:
@@ -99,7 +103,9 @@ To start with it tou can download this [handout](https://github.com/Avilgor/Dial
 	- Enum with the diferent number of decisions
 
 ![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/todo4.png?raw=true)
+
 ![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/todo4_1.png?raw=true)
+
 ![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/todo4_2.png?raw=true)
 
 # TODO 5:
@@ -112,6 +118,7 @@ To start with it tou can download this [handout](https://github.com/Avilgor/Dial
 	- If it is, call update UI function
 	
 ![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/todo5_1.png?raw=true)
+
 ![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/todo5.png?raw=true)
 
 
@@ -129,12 +136,15 @@ To start with it tou can download this [handout](https://github.com/Avilgor/Dial
 - Finally we call the function in the start method
 
 ![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/todo6.png?raw=true)
+
 ![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/todo6_1.png?raw=true)
 
 If you did it all correct, your dialog should look like this by now: 
 
 ![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/start.png?raw=true)
+
 ![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/choose.png?raw=true)
+
 ![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/optionB.png?raw=true)
 
 # Optional work:
