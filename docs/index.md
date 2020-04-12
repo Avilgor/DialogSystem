@@ -17,9 +17,11 @@ said, he/she only reads the information but can't make decisions to change it. I
 into account what the player decides to show one text or another, we can even make it to remember previous decisions for future events in game.
 
 Non branching system:
+
 ![](https://github.com/Avilgor/DialogSystem/blob/master/docs/noBranch.jpg?raw=true)
 
 Branching system:
+
 ![](https://github.com/Avilgor/DialogSystem/blob/master/docs/branch.png?raw=true)
 
 To do a GOOD branching dialog system, there are one thing that has to be done at first, planing a dialog tree. A dialog tree is where all 
