@@ -80,16 +80,16 @@ To start with it tou can download this [handout](https://github.com/Avilgor/Dial
 - Now is time to declare a function to create the UI for the dialog and the variables for the UI
 	- For this we will need 1 image for the retail and 4 texts, one for the information and the other 3 for each answer
 	
-![](https://github.com/Avilgor/DialogSystem/blob/master/ToDo/todo2_1.png?raw=true)
-![](https://github.com/Avilgor/DialogSystem/blob/master/ToDo/todo2.png?raw=true)
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/todo2_1.png?raw=true)
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/todo2.png?raw=true)
 
 # TODO 3:
 
 - It's time to define crate UI function and call it at the module start
 	- Here we will used the texture for the retail image and start all the text lines empty
 	
-![](https://github.com/Avilgor/DialogSystem/blob/master/ToDo/todo3.png?raw=true)
-![](https://github.com/Avilgor/DialogSystem/blob/master/ToDo/todo3_1.png?raw=true)
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/todo3.png?raw=true)
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/todo3_1.png?raw=true)
 
 # TODO 4:
 
@@ -98,9 +98,9 @@ To start with it tou can download this [handout](https://github.com/Avilgor/Dial
 	- A boolean to activate or deactivate the decisions read
 	- Enum with the diferent number of decisions
 
-![](https://github.com/Avilgor/DialogSystem/blob/master/ToDo/todo4.png?raw=true)
-![](https://github.com/Avilgor/DialogSystem/blob/master/ToDo/todo4_1.png?raw=true)
-![](https://github.com/Avilgor/DialogSystem/blob/master/ToDo/todo4_2.png?raw=true)
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/todo4.png?raw=true)
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/todo4_1.png?raw=true)
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/todo4_2.png?raw=true)
 
 # TODO 5:
 
@@ -111,8 +111,8 @@ To start with it tou can download this [handout](https://github.com/Avilgor/Dial
 -If there is nothing to choose, check if the key to advance in dialog steps is pressed	
 	- If it is, call update UI function
 	
-![](https://github.com/Avilgor/DialogSystem/blob/master/ToDo/todo5_1.png?raw=true)
-![](https://github.com/Avilgor/DialogSystem/blob/master/ToDo/todo5.png?raw=true)
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/todo5_1.png?raw=true)
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/todo5.png?raw=true)
 
 
 # TODO 6:
@@ -128,14 +128,14 @@ To start with it tou can download this [handout](https://github.com/Avilgor/Dial
 - If the option was in the previous step, clear all the options text and set the boolean to false
 - Finally we call the function in the start method
 
-![](https://github.com/Avilgor/DialogSystem/blob/master/ToDo/todo6.png?raw=true)
-![](https://github.com/Avilgor/DialogSystem/blob/master/ToDo/todo6_1.png?raw=true)
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/todo6.png?raw=true)
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/todo6_1.png?raw=true)
 
 If you did it all correct, your dialog should look like this by now: 
 
-![](https://github.com/Avilgor/DialogSystem/blob/master/ToDo/start.png?raw=true)
-![](https://github.com/Avilgor/DialogSystem/blob/master/ToDo/choose.png?raw=true)
-![](https://github.com/Avilgor/DialogSystem/blob/master/ToDo/optionB.png?raw=true)
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/start.png?raw=true)
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/choose.png?raw=true)
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/ToDo/optionB.png?raw=true)
 
 # Optional work:
 
