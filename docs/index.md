@@ -10,16 +10,31 @@ We will see different types of dialog systems, examples of games that have one a
 
 The dialog system is that part of the game or app which control the dialog interaction between the user and/or IA interactions. In some games 
 we can interact with it, making decisions which can or not inflict in the story or future actions, and in other cases the player can only see
-how the AI interacts with itself. Not all decisions that we can make are important, there are can be dialogs systems which don't save the 
-decisions you made, it is all about the game you want to do and the importance you want to give to making decisions.
+how the AI interacts with itself. Not all decisions that we can make are important, there can be dialogs systems which don't save the 
+decisions you made, it is all about the game you want to do and the importance you want to give to making decisions. 
+There are two different types of dialog system, branching and not. Not having branches means that the player have no control over what is being
+said, he/she only reads the information but can't make decisions to change it. In the opposite, we have the branching dialog system, which takes
+into account what the player decides to show one text or another, we can even make it to remember previous decisions for future events in game.
 
-To do a GOOD dialog system, there are one thing that has to be done before starting coding, planing a dialog tree. A dialog tree is where all 
+Non branching system:
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/noBranch.jpg?raw=true)
+
+Branching system:
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/branch.png?raw=true)
+
+To do a GOOD branching dialog system, there are one thing that has to be done at first, planing a dialog tree. A dialog tree is where all 
 the decisions are schedule, setting the possible answers and next questions to ask or answers to give.
 
 ![](https://github.com/Avilgor/DialogSystem/blob/master/docs/tree.png?raw=true)
 
 That image is a clear example of a dialog tree. It is a simple dialog only taken into account, but for a larger one the basis is the same, 
 you only have to include more options and further questions/answers.
+
+Some branching systems use an idea of Hub-Dialog, which means that the player starts with multiple options to choose that each one leads to a 
+different dilogue with the same NPC, and once it is finished, you return to the Hub, where you can choose another oprion and/or re-choose the
+same one. This system can be found in games like "Divinity Original Sin".
+
+![](https://github.com/Avilgor/DialogSystem/blob/master/docs/hub.jpg?raw=true)
 
 ## Why we use it?
 
